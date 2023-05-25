@@ -1,0 +1,9 @@
+Google in Rust => Gust 
+Tf-idf => term frequency inverse document frequency
+value = how frequent it is in that document / how freuqent it is in other document
+It tells us it is noise or not 
+
+Problem statement => docs.gl cam only search through names but not the things that are inside the the document
+
+1. Convert XML into text 
+2. Text into buffer 
