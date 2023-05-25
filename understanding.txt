@@ -7,3 +7,10 @@ Problem statement => docs.gl cam only search through names but not the things th
 
 1. Convert XML into text 
 2. Text into buffer 
+
+
+Search
+Idea => take prompt from user  and tokenize it 
+then each token is used to compute the tfidf for each document 
+we sum them up and we get ranking for each individual document
+then we sort and give top 10 
